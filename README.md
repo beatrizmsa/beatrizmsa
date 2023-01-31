@@ -3,17 +3,15 @@
 
 
 ### More Info:
-<div>
-  <a
 
 ### Statistics
 
  <div>
-  <a href="https://github.com/beatrizmsa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizmsa&show_icons=false&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmsa&layout=compact&langs_count=16&theme=white"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=beatrizmsa&show_icons=false&count_private=true&hide_border=true&title_color=faa2c1&text_color=495057&bg_color=f8f9fa" alt="Beatriz Sá github stats"/>
 </div>
-  
+ <div>
+  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmsa&layout=compact&hide_border=true&title_color=eebefa&text_color=495057&bg_color=f8f9fa"/>
+</div>
 
 
 <!--
