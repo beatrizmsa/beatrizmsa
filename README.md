@@ -1,9 +1,10 @@
 
+
+<!--
 ### About Me
 
 I'm a Computer Science student at Faculty of Science of the University of Porto. 
 
-<!--
 ### More Info:
 
 -->
